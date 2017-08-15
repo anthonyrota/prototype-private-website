@@ -2,4 +2,4 @@
 A Small Website written in HTML5, CSS3 and Javascript
 - Aimed to teach others about the trio of languages
 
-[a link](http://PandaSandStudio.github.io)
+[Visit the Website](http://PandaSandStudio.github.io)
